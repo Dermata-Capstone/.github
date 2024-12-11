@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Dermata-Capstone/.github/blob/main/profile/assets/LOGO%20DERMATA.png" alt="Logo Dermata" style="width: 40%;">
+  <img src="https://github.com/Dermata-Capstone/.github/blob/main/profile/assets/LOGO%20DERMATA.png" alt="Logo Dermata" style="width: 30%;">
   <p>Reveal. Predict. Glow.</p>
 </div>
 
