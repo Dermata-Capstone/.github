@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https" alt="Logo Dermata" style="width: 40%;">
+  <img src="https://github.com/Dermata-Capstone/.github/blob/main/profile/assets/LOGO%20DERMATA.png" alt="Logo Dermata" style="width: 40%;">
   <p>Reveal. Predict. Glow.</p>
 </div>
 
@@ -34,6 +34,6 @@ In a world flooded with generic products that often miss the mark, Dermata stand
 # Project Documentation
 
 1. Learning Path Documentation
-   - [Machine Learning](https)
-   - [Cloud Computing](https)
-   - [Android](https)
+   - [Machine Learning](https://github.com/Dermata-Capstone/Machine-Learning)
+   - [Cloud Computing](https://github.com/Dermata-Capstone/Cloud-Computing)
+   - [Android](https://github.com/Dermata-Capstone/Mobile-Development)
