@@ -28,7 +28,7 @@ In a world flooded with generic products that often miss the mark, Dermata stand
 # Application Result
 
 <div align="center">
-  <img src="https://https://github.com/Dermata-Capstone/.github/blob/main/profile/assets/Sample.jpg" alt="Result App" style="width: 100%;">
+  <img src="https://github.com/Dermata-Capstone/.github/blob/main/profile/assets/Sample.jpg" alt="Result App" style="width: 100%;">
 </div>
 
 # Project Documentation
