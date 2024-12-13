@@ -37,3 +37,4 @@ In a world flooded with generic products that often miss the mark, Dermata stand
    - [Machine Learning](https://github.com/Dermata-Capstone/Machine-Learning)
    - [Cloud Computing](https://github.com/Dermata-Capstone/Cloud-Computing)
    - [Android](https://github.com/Dermata-Capstone/Mobile-Development)
+2. You can download Dermata apps [here](https://github.com/Dermata-Capstone/Mobile-Development/blob/main/app-debug.apk)
